@@ -1,4 +1,4 @@
-# Cliente Prueba Atradata
+# Cliente Prueba TOPEM
 
 Repositorio contenedor de la aplicación web (FrontEnd)
 
@@ -16,5 +16,5 @@ npm run serve
 
 ## Credenciales
 
-#### Correo electrónico: jspinzonr@misena.edu.co
+#### Correo electrónico: admin@admin.edu.co
 #### ​Contraseña: 123456789
